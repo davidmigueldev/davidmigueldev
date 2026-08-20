@@ -1,10 +1,10 @@
 # Hi, I'm David Miguel 👋
 
-### Founder & CEO @ Aurora | Full-Stack Developer & Product Builder
+### Co-Founder & CEO @ Aurora | Full-Stack Developer & Product Builder
 
 I build digital products and business systems at the intersection of **technology, operations and business strategy**.
 
-As Founder & CEO of **Aurora**, I work directly on the conception, architecture and development of solutions designed to solve real operational problems — from CRM platforms and management systems to automation and AI-powered tools.
+As Co-Founder & CEO of **Aurora**, I work directly on the conception, architecture and development of solutions designed to solve real operational problems — from CRM platforms and management systems to automation and AI-powered tools.
 
 ---
 
