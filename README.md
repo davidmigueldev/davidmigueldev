@@ -97,5 +97,5 @@ to build solutions that actually improve operations.
 ## Connect
 
 - 🌐 [Aurora](https://auroraalveare.com.br)
-- 💼 LinkedIn — coming soon
-- 🧑‍💻 GitHub — you're already here
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidmiguel-ase/)
+- 🧑‍💻 [GitHub] you're already here
